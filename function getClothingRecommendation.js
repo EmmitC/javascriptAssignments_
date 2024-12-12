@@ -7,10 +7,3 @@ function getClothingRecommendation(temp) {
         return "Wear a t-shirt";
     }
 }
-
-
-
-
-
-
-
